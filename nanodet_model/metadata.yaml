@@ -1,0 +1,10 @@
+nc: 4
+names:
+  0: head
+  1: helmet
+  2: no-jacket
+  3: safety-jacket
+imgsz: 320
+model: nanodet
+mean: [103.53, 116.28, 123.675]
+std: [57.375, 57.12, 58.395]
